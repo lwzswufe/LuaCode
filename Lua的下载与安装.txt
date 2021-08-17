@@ -1,0 +1,8 @@
+下载地址官网http://www.lua.org/download.html
+
+安装
+tar zxf lua-5.4.3.tar.gz
+cd lua-5.4.3
+make all test
+
+安装成功后把lua文件拷贝到/usr/local/bin/ 目录下
